@@ -1,0 +1,19 @@
+{
+  "name": "@gabrielsanttana/npm-publishing-semantic-release",
+  "version": "1.0.0",
+  "description": "Basic example of publishing a package on NPM",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/gabrielsanttana/npm-publishing-semantic-release.git"
+  },
+  "author": "Gabriel Santana",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/gabrielsanttana/npm-publishing-semantic-release/issues"
+  },
+  "homepage": "https://github.com/gabrielsanttana/npm-publishing-semantic-release#readme"
+}
