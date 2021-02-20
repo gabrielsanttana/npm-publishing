@@ -1,6 +1,6 @@
 {
   "name": "@gabrielsanttana/npm-publishing-semantic-release",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Basic example of publishing a package on NPM",
   "main": "index.js",
   "scripts": {
