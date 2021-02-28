@@ -2,7 +2,7 @@
   <img src="./.github/semantic-release.png" alt="npm-publishing-semantic-release" width="180" />
 </div>
 
-<p align="center">📦 Basic example of NPM package publishing with semantic release</p>
+<p align="center">📦 A demo of automated NPM package publishing with semantic release</p>
 
 [![GitHub license](https://img.shields.io/badge/license-MIT-blue.svg)](https://github.com/gabrielsanttana/npm-publishing-semantic-release/blob/master/LICENSE)
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)](https://github.com/gabrielsanttana/npm-publishing-semantic-release/blob/main/CONTRIBUTING.md)
