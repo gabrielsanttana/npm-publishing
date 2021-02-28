@@ -45,10 +45,10 @@ jobs:
           steps.cache-yarn-cache.outputs.cache-hit != 'true' || 
           steps.cache-node-modules.outputs.cache-hit != 'true'
 
-      - name: Build code
-        run: yarn build
-        env:
-          NODE_OPTIONS: --max-old-space-size=4096
+      # - name: Build code
+      #   run: yarn build
+      #   env:
+      #     NODE_OPTIONS: --max-old-space-size=4096
 
       - name: Add Semantic Release
         uses: cycjimmy/semantic-release-action@v2
